@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studting on University of Chinese Academy of Sciences (UCAS).
+- 🌱 I’m currently learning deep learning and video object segmentation.
+- 📫 How to reach me: qq:2040171586
